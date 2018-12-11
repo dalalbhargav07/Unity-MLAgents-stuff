@@ -14,4 +14,4 @@ One of the parameters from Training config were overridden for this experiment. 
 
 ### Results
 
-![Alt](./FollowMe/images/playtest.gif "Record of agent performance after final training")
+![Alt](./FollowMe/Images/playtest.gif "Record of agent performance after final training")
